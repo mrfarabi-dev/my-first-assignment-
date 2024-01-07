@@ -1,11 +1,12 @@
+
+
 .banner-img{
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), 
     url('../resources/Banner\ Image.png');
-    width: 88.5%;
+    width: 88%;
     margin: 0 auto;
     height: 600px;
-    border-radius: 16px;
-    
+    border-radius: 16px;  
 }
 
 .banner-title{
@@ -15,8 +16,7 @@
     font-size: 45px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
-    padding-top: 90px;
+    padding-top: 100px;
 }
 
 .banner-caption{
@@ -28,7 +28,7 @@
     font-weight: 900;
     line-height: 50px; 
     width: 100 auto;
-    margin-top: -30px;
+    margin-bottom: 40px;
     line-height: 90px;
 }
 .titel{
@@ -39,6 +39,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin-top: 50px;
 }
 .perageraph-1{
     color: #F00;
@@ -48,7 +49,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    margin-top: -20px;
+    margin-bottom: 20px;
 }
 .perageraph-2{
     color: #070211;
@@ -66,11 +67,12 @@
 }
 .new year photo{
     margin: 50px;
+    margin-bottom: 100px;
 }
 
 .victor{
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
-    width: 88.5%;
+    width: 88%;
     margin: 0 auto;
     height: 600px;
     border-radius: 16px;
@@ -85,6 +87,7 @@
     line-height: 88px;
     padding-right: 600px;
     padding-top: 150px;
+    text-align: left;
 } 
 
 .perageraph-4{
@@ -105,11 +108,11 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
-    line-height: normal;
     background:transparent;
     border: none;
     margin-left: 126px; 
     padding-right: 800px;
+    text-align: left;
 } 
 
 .img-1{
