@@ -7,6 +7,8 @@
     margin: 0 auto;
     height: 600px;
     border-radius: 16px;  
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .banner-title{
@@ -77,6 +79,8 @@
     height: 600px;
     border-radius: 16px;
     margin-top: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .hedding-1{
     color: #FFF;
@@ -85,8 +89,9 @@
     font-style: normal;
     font-weight: 900;
     line-height: 88px;
-    padding-right: 600px;
     padding-top: 150px;
+    text-align: left;
+    margin-left: 100px;
 } 
 
 .perageraph-4{
@@ -104,15 +109,25 @@
 
 .btn-1{
     color: #FFF;
+
     font-family: Inter;
     font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: transparent;
+    margin-left: 100px;
+}
+
+.button-1{
+    text-align: left;
+    margin-right: 100px;
+    color: #FFF;
+    font-family: Inter;
     font-weight: 700;
     background:transparent;
     border: none;
-    margin-left: 126px; 
-    padding-right: 800px;
-    text-align: left;
-} 
+}
 
 .img-1{
     padding-left: 700px;
@@ -175,13 +190,13 @@
  
 .section-2{
     display: flex;
-    margin-top: 100px;
+    padding-top: 200px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     width: 1340px;
     height: 400px;
     margin: 0 auto;
-
 }
+
 
 .heading-2{
     color: #F00;
@@ -247,5 +262,4 @@
     height: 200;
     flex-shrink: 0;
     padding-left: 55px;
-    
 }
