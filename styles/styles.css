@@ -87,7 +87,6 @@
     line-height: 88px;
     padding-right: 600px;
     padding-top: 150px;
-    text-align: left;
 } 
 
 .perageraph-4{
@@ -119,4 +118,134 @@
     padding-left: 700px;
     margin-top: -390px;
     height: 500px;
+}
+
+.span-1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; 
+    text-transform: capitalize;
+
+}
+
+.perageraph-5{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding-top: 100px;
+}
+
+.bag-color{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.btn-2{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+}
+.btn-3{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    background: transparent;
+}
+ 
+.section-2{
+    display: flex;
+    margin-top: 100px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    width: 1340px;
+    height: 400px;
+    margin: 0 auto;
+
+}
+
+.heading-2{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    margin-top: 50px;
+}
+
+.heading-3{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: center; 
+}
+
+.perageraph-6{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+.img-2{
+    border-radius: 100%;
+    border: 15px solid #F00;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.heading-4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    text-align: center;
+}
+
+.perageraph-7{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+.img-3{
+    margin: 0 auto;
+    height: 200;
+    flex-shrink: 0;
+    padding-left: 55px;
+    
 }
